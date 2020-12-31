@@ -1,0 +1,13 @@
+General
+1. Testing of one use case should focus on the particular case itself, including its basic functionality and peripheral applications;
+2. It would be recommended that the testers widen the range of testing scope, nevertheless only defects related to the test case should be linked to enhance the focus of both dev and QE;
+3. AspenTech Values should always be kept in mind rather than finding the defect itself, i.e. the ideology that more defect - sometimes stopgap defects - is better is neither advisable nor acceptable to reduce the load of both R&D and QE;
+
+Validtaion Testing Objective (VTO) Related
+1. VTOs of a use case should be separated into basic/alternative/performance/license/engine sectors to make sure a clear testing pathway; 
+2. Consistency throughout the path: UC-VTO-TC should always be kept to make sure that all the test points to be covered are contained in the terminal testing file and execution;
+ 
+Acceptance Criteria Related 
+1. Acceptance criteria (AC) of use cases/test cases should be completed upon creating the UC/TC to keep the required functionalities are tested with no error, omission, duplication or any undesirable outcome; 
+2. Testing should ALWAYS be stick to the AC. With all AC test points are success, a test case should be passed. Such a testing scope should only be changed collaboratively by dev and QE at the same time;
+3. Negative testing is recommended yet the scope need to cope with existing AC.
