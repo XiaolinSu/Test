@@ -11,3 +11,7 @@ Acceptance Criteria Related
 1. Acceptance criteria (AC) of use cases/test cases should be completed upon creating the UC/TC to keep the required functionalities are tested with no error, omission, duplication or any undesirable outcome; 
 2. Testing should ALWAYS be stick to the AC. With all AC test points are success, a test case should be passed. Such a testing scope should only be changed collaboratively by dev and QE at the same time;
 3. Negative testing is recommended yet the scope need to cope with existing AC.
+
+
+
+I have added some more updates
